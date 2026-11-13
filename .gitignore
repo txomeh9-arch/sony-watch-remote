@@ -1,0 +1,33 @@
+# Build and IDE files
+.hvigor/
+.idea/
+.npm-cache/
+node_modules/
+oh_modules/
+**/build/
+local.properties
+build-profile.local.json5
+.env
+.env.*
+*.log
+test-artifacts/
+# Signing material and installable packages
+*.p12
+*.pfx
+*.p7b
+*.p7c
+*.cer
+*.crt
+*.csr
+*.pem
+*.key
+*.jks
+*.keystore
+*.hap
+*.hsp
+*.app
+*.ipa
+*.mobileprovision
+# Local system files
+.DS_Store
+Thumbs.db
